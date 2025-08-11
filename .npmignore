@@ -1,0 +1,46 @@
+# Source files
+src/
+example/
+.github/
+
+# Build tools
+rollup.config.js
+tsconfig.json
+.babelrc
+.eslintrc*
+.prettierrc*
+
+# Documentation
+*.md
+!README.md
+
+# Development files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test files
+test/
+tests/
+*.test.*
+*.spec.*
+__tests__/
+
+# CI/CD
+.github/
+.travis.yml
+.circleci/
+.gitlab-ci.yml
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment files
+.env*
+
+# OS files
+.DS_Store
+Thumbs.db
