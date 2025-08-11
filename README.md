@@ -309,7 +309,7 @@ For additional customization, you can override CSS variables:
 
 ## License
 
-MIT © [Your Name]
+MIT © NabeelAhmed23
 
 ## Changelog
 

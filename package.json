@@ -55,5 +55,13 @@
     "@tailwindcss/cli": "^4.1.11",
     "framer-motion": "^10.16.4",
     "tailwindcss": "^4.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NabeelAhmed23/react-kanban-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NabeelAhmed23/react-kanban-component/issues"
+  },
+  "homepage": "https://github.com/NabeelAhmed23/react-kanban-component#readme"
 }
