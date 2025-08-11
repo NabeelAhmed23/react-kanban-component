@@ -1,6 +1,6 @@
 {
   "name": "react-kanban-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A fully customizable, animated kanban board component for React with TypeScript and TailwindCSS",
   "main": "dist/index.cjs",
